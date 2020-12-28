@@ -28,7 +28,7 @@ SECRET_KEY = 'rqa0y4qnw)gibujkheua*072rtf-7d(p&p+*-za)h0-_&z*x_t'
 DEBUG = False
 
 # ALLOWED_HOSTS = ['*']
-ALLOWED_HOSTS = ['http://expensesagar.herokuapp.com/','127.0.0.1']
+ALLOWED_HOSTS = ['expensesagar.herokuapp.com/','127.0.0.1']
 
 # Application definition
 
